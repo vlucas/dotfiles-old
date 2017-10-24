@@ -64,6 +64,7 @@ set undoreload=10000
 
 " Colorscheme
 syntax enable
+set background=dark
 silent! colorscheme solarized
 highlight SignColumn ctermbg=8
 

@@ -39,7 +39,6 @@ Plug 'tommcdo/vim-exchange'
 Plug 'tpope/vim-commentary'
 Plug 'mbbill/undotree'
 Plug 'henrik/vim-indexed-search'
-Plug 'ReplaceWithRegister'
 Plug 'mattn/emmet-vim'
 
 " Colors
