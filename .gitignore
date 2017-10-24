@@ -1,0 +1,7 @@
+.vim/bundle
+.vim/.undo
+.vim/.netrwhist
+.gitconfig.private
+.bundle/cache
+.vim/plugged/*
+!.gitkeep

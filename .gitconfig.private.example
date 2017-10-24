@@ -1,0 +1,7 @@
+[user]
+  name = Vance Lucas
+  email = vance@vancelucas.com
+[github]
+  user = vlucas
+[credential "https://github.com"]
+  username = vlucas
