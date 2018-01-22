@@ -20,3 +20,5 @@ source "$HOME/zsh/keybindings.zsh"
 source "$HOME/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
 source "$HOME/zsh/abbreviations.zsh"
 source "$HOME/zsh/fzf.zsh"
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
