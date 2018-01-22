@@ -1,5 +1,5 @@
 source $HOME/vim/plug.vim
-source $HOME/vim/fzf.vim
+source $HOME/vim/ctrlp.vim
 source $HOME/vim/keybindings.vim
 source $HOME/vim/lightline.vim
 source $HOME/vim/vim-diminactive.vim

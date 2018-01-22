@@ -17,7 +17,7 @@ source "$HOME/zsh/history.zsh"
 source "$HOME/zsh/path.zsh"
 source "$HOME/zsh/vi-mode.zsh"
 source "$HOME/zsh/keybindings.zsh"
-source "$HOME/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+# source "$HOME/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
 source "$HOME/zsh/abbreviations.zsh"
 source "$HOME/zsh/fzf.zsh"
 
