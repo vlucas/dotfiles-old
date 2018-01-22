@@ -38,7 +38,9 @@
 	prune = true
 [user]
 	signingkey = vance@vancelucas.com
+	email = vance@vancelucas.com
+	name = Vance Lucas
 [gpg]
 	program = gpg2
 [commit]
-	gpgsign = true
+	gpgsign = false
