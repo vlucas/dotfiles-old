@@ -18,6 +18,9 @@ Plug 'tpope/vim-unimpaired'
 Plug 'tmhedberg/matchit'
 Plug 'vim-ruby/vim-ruby'
 
+" Autocomplete
+Plug 'lifepillar/vim-mucomplete'
+
 " Text objs
 Plug 'kurkale6ka/vim-pairs'
 

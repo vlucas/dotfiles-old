@@ -10,3 +10,6 @@ path=(~/bin "$path[@]")
 
 # Add ~ and ~/Code to cdpath
 cdpath=(~ ~/Code)
+
+# For GPG code signing
+export GPG_TTY=$(tty)

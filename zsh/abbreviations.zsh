@@ -35,9 +35,9 @@ abbrevs+=(
   "gapcp" "git add -p && git commit -v && git push -u"
 
   "gc"    "git commit -v"
+  "gca"   "git commit -a"
   "gcav"  "git commit -av"
   "gcp"   "git commit -v && git push -u"
-  "gca"   "git commit --amend -v"
   "gcane" "git commit --amend --no-edit"
   "gcm"   "git commit -m"
   "gcmw"   "git commit -m wip"
